@@ -1,9 +1,9 @@
 # Personal-Portfolio
 👉Check it out live at: https://portfoliohadihssn.netlify.app/ <br>
-This repo is part of my internship at Codsoft.
+This repo is part of my internship at Codsoft
 
 Task 1 - Portfolio <br>
-This portfolio page has been made using HTML and CSS with a little touch of Bootstrap (utilizing its classes to make things easier).
+This portfolio page has been made using HTML and CSS with a little touch of Bootstrap (utilizing its classes to make things easier)
 
 Template I followed (not completely): https://websitedemos.net/personal-portfolio-02/# <br>
 🍃 Resources I used (including Youtube videos and web docs):
